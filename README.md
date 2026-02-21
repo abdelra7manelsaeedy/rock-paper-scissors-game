@@ -26,7 +26,8 @@
 - Managing game loops efficiently using loops instead of recursion
 
 ## 👨‍💻 Author
-Abdelrahman El-Saeedy# rock-paper-scissors-game
+Abdelrahman El-Saeedy
+# rock-paper-scissors-game
 A simple Rock Paper Scissors game built with C# demonstrating basic OOP concepts
 
 #This project was built as part of my learning journey in C++.
